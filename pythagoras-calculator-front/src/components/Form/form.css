@@ -1,0 +1,27 @@
+.form, .form-inside{
+    height: 600px;
+    padding: 20px;
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.input-number{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+
+label{
+    margin-right: 15px;
+    color: black;
+}
+
+input{
+    border: 2px solid ;
+    background-color:bisque
+}
+
+
+
